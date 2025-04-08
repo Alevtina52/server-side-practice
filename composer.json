@@ -1,0 +1,24 @@
+{
+    "name": "fffal/server-side-practice",
+    "description": "simple mvc freamework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alya",
+            "email": "fff.alya78@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+        }
+    }
+}
+
