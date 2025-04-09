@@ -3,7 +3,7 @@
         'name' => 'fffal/server-side-practice',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '631606130aea198f543e2e3a686a53ffc7c2edb1',
+        'reference' => 'e8c9e91b740a0d64b699ad60eda7e42dbfcfc79d',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'fffal/server-side-practice' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '631606130aea198f543e2e3a686a53ffc7c2edb1',
+            'reference' => 'e8c9e91b740a0d64b699ad60eda7e42dbfcfc79d',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
